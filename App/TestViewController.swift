@@ -18,6 +18,8 @@ class TestViewController: UIViewController {
         super.viewDidLoad()
     }
     
+    
+    // comment 
     @IBAction func switchViews(_ sender: UISegmentedControl){
         
         if sender.selectedSegmentIndex == 0{
